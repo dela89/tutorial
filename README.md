@@ -1,1 +1,1 @@
-This is a readme file for my git repository
+This is a README file for my git repository
